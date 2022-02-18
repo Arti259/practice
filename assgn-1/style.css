@@ -1,0 +1,48 @@
+
+body {
+    background-color: pink;
+}
+.row-1,.row-2{
+    width:100%;
+    height:200px;
+}
+.elem1 {
+    width: 48%;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    background-color: blue;
+    border-radius: 100px;
+    vertical-align:text-bottom;
+    padding-top: 40%;
+}
+
+.elem2 {
+    width: 48%;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    background-color: red;
+    border-radius: 100px;
+    vertical-align:text-bottom;
+}
+
+
+.elem3 {
+    width: 48%;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 100px;
+    vertical-align:text-bottom;
+}
+
+.elem4 {
+    width: 48%;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    background-color: green;
+    border-radius: 100px;
+}
